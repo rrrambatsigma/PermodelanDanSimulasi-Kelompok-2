@@ -1,0 +1,6 @@
+IPM - Kabupaten Kota/Shape Data/
+IPM - Kabupaten Kota/Shape Data/*
+IPM - Kabupaten Kota/.git
+.venv/
+__pycache__/
+.ipynb_checkpoints/

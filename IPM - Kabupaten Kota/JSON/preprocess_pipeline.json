@@ -1,0 +1,15 @@
+{
+  "log_transform": [
+    "persentase_penduduk_miskin",
+    "indeks_kemahalan_konstruksi",
+    "produk_domestik_regional_bruto",
+    "prevalensi_ketidakcukupan_konsumsi_pangan"
+  ],
+  "standardization": [
+    "indeks_kemahalan_konstruksi",
+    "produk_domestik_regional_bruto",
+    "persentase_penduduk_miskin",
+    "prevalensi_ketidakcukupan_konsumsi_pangan",
+    "proporsi_perempuan_melahirkan_anak_pertama_kurang_dari_20_tahun"
+  ]
+}

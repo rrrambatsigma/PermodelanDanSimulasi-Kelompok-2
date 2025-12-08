@@ -1,0 +1,5 @@
+Shape Data/
+Shape Data/*
+venv/
+.ipynb_checkpoints/
+__pycache__/
